@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		44F253B82F118CB100BE9194 /* Pocket_Pulse */ = {
+		44F253B82F118CB100BE9194 /* pocket_pulse */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Pocket_Pulse;
+			path = pocket_pulse;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		44F253AD2F118CB000BE9194 = {
 			isa = PBXGroup;
 			children = (
-				44F253B82F118CB100BE9194 /* Pocket_Pulse */,
+				44F253B82F118CB100BE9194 /* pocket_pulse */,
 				44F253B72F118CB100BE9194 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				44F253B82F118CB100BE9194 /* Pocket_Pulse */,
+				44F253B82F118CB100BE9194 /* pocket_pulse */,
 			);
 			name = Pocket_Pulse;
 			packageProductDependencies = (

@@ -1,0 +1,21 @@
+[
+  { "name": "Rent", "type": "expense" },
+  { "name": "Groceries", "type": "expense" },
+  { "name": "Dining", "type": "expense" },
+  { "name": "Gas", "type": "expense" },
+  { "name": "Utilities", "type": "expense" },
+  { "name": "Internet", "type": "expense" },
+  { "name": "Phone", "type": "expense" },
+  { "name": "Transportation", "type": "expense" },
+  { "name": "Health", "type": "expense" },
+  { "name": "Shopping", "type": "expense" },
+  { "name": "Subscriptions", "type": "expense" },
+  { "name": "Entertainment", "type": "expense" },
+  { "name": "Travel", "type": "expense" },
+
+  { "name": "Savings", "type": "income" },
+
+  { "name": "Salary", "type": "income" },
+  { "name": "Freelance", "type": "income" },
+  { "name": "Other Income", "type": "income" }
+]
